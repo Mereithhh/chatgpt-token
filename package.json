@@ -1,0 +1,35 @@
+{
+  "name": "chatgpt-token",
+  "version": "0.0.1",
+  "description": "A npm package to get chatgpt token by your username and password.",
+  "type": "module",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mereithhh/chatgpt-token.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "token",
+    "session",
+    "account",
+    "password",
+    "username"
+  ],
+  "exports": {
+    ".": "./index.cjs",
+    "./module": "./index.mjs"
+  },
+  "author": "mereith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mereithhh/chatgpt-token/issues"
+  },
+  "homepage": "https://github.com/Mereithhh/chatgpt-token#readme",
+  "dependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
