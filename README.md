@@ -1,6 +1,9 @@
 # chatgpt-token
 A npm package to get chatgpt token by your username and password.
 
+## Unavaliable Now
+[https://github.com/transitive-bullshit/chatgpt-api#update-december-11-2022](https://github.com/transitive-bullshit/chatgpt-api#update-december-11-2022)
+
 ## Requirement
 
 This package use playright to  simulate login behavior, and use chromium hardless mode.
